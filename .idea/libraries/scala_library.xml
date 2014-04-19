@@ -1,17 +1,17 @@
 <component name="libraryTable">
   <library name="scala-library">
     <CLASSES>
-      <root url="jar://I:/lib/scala-2.10.2/lib/scala-library.jar!/" />
-      <root url="jar://I:/lib/scala-2.10.2/lib/scala-swing.jar!/" />
-      <root url="jar://I:/lib/scala-2.10.2/lib/scala-actors.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/akka-actors.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/jline.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scala-actors-migration.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scala-actors.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scala-compiler.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scala-swing.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/scalap.jar!/" />
+      <root url="jar://E:/Program Files (x86)/scala/lib/typesafe-config.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="file://I:/lib/scala-2.10.2/doc/scala-devel-docs/api" />
-    </JAVADOC>
-    <SOURCES>
-      <root url="jar://I:/lib/scala-2.10.2/src/scala-library-src.jar!/" />
-      <root url="jar://I:/lib/scala-2.10.2/src/scala-swing-src.jar!/" />
-      <root url="jar://I:/lib/scala-2.10.2/src/scala-actors-src.jar!/" />
-    </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>
