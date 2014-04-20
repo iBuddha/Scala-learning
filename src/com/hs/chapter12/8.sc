@@ -1,0 +1,1 @@
+Array("Hello", "World!").corresponds(Array(5,6))(_.length == _)
