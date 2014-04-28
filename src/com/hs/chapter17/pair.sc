@@ -1,0 +1,1 @@
+class Pair[+T](var first:T, var second:T)
